@@ -1,8 +1,9 @@
 # Hi there, I'm Yunqiang Hao 👋
 
-### 🧠 UX Researcher | 📊 Data Analyst | 🔬 Human Factors Specialist
+### 🧠 Pychology and Cognition Science Researcher | 📊 Data Analyst | 🔬 Human Factors Enthusiast
 
-> Bridging Psychology, Cognitive Science, Data Science, and User Experience
+> Psychology • Cognition Science • Data Science • User Experience
+ 
 
 ---
 
