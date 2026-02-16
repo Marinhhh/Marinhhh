@@ -49,7 +49,7 @@
 
 ## 📫 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-003366?style=flat-square&logo=gmail&logoColor=white)](mailto:marin1120@163.com)
+[![Email](https://img.shields.io/badge/Email-marin1120%40163.com-003366?style=flat-square&logo=gmail&logoColor=white)](mailto:marin1120@163.com)
 ![WeChat](https://img.shields.io/badge/WeChat-H15954867138-07C160?style=flat-square&logo=wechat&logoColor=white)
 ---
 
