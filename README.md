@@ -1,7 +1,7 @@
 
-# # Hi there, I'm Yunqiang Hao (郝云强) 👋
+# Hi there, I'm Yunqiang Hao (郝云强) 👋
 
-### 🧠 Cognitive Neuroscience Researcher | 📊 Neuroimaging Specialist | 🔬 Multimodal Data Engineer
+## 🧠 Cognitive Neuroscience Researcher | 📊 Neuroimaging Specialist | 🔬 Multimodal Data Engineer
 
 > **Decoding the predictive brain through the intersection of Psychology, AI, and the art of Surprise.**
 
@@ -47,25 +47,13 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="[https://github-readme-stats.vercel.app/api?username=Marinhhh&show_icons=true&theme=radical&include_all_commits=true&count_private=true](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DMarinhhh%26show_icons%3Dtrue%26theme%3Dradical%26include_all_commits%3Dtrue%26count_private%3Dtrue)" alt="Hao's GitHub Stats" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
-<p align="left">
-<a href="mailto:2233502098@cnu.edu.cn"><img src="[https://img.shields.io/badge/-Email-003366?style=flat-square&logo=gmail&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/-Email-003366%3Fstyle%3Dflat-square%26logo%3Dgmail%26logoColor%3Dwhite)" /></a>
-<a href="[https://github.com/Marinhhh](https://github.com/Marinhhh)"><img src="[https://img.shields.io/badge/-GitHub-003366?style=flat-square&logo=github&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/-GitHub-003366%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3Dwhite)" /></a>
-<a href="[https://img.shields.io/badge/H15954867138-WeChat-green](https://img.shields.io/badge/H15954867138-WeChat-green)"><img src="[https://img.shields.io/badge/-WeChat-003366?style=flat-square&logo=wechat&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/-WeChat-003366%3Fstyle%3Dflat-square%26logo%3Dwechat%26logoColor%3Dwhite)" /></a>
-</p>
-
+[![Email](https://img.shields.io/badge/Email-003366?style=flat-square&logo=gmail&logoColor=white)](mailto:marin1120@163.com)
+![WeChat](https://img.shields.io/badge/WeChat-H15954867138-07C160?style=flat-square&logo=wechat&logoColor=white)
 ---
 
-### 💡 Fun Facts
+## 💡 Fun Facts
 
 * 🪄 I believe the **Hippocampus** is the brain's "Director," and magic is the "Plot Twist" that reveals how the script is written.
 * ⚙️ My favorite sound is the hum of an **HPC cluster** successfully running a parallel job.
@@ -73,4 +61,4 @@
 
 ---
 
-⭐️ *From [Marinhhh*](https://github.com/Marinhhh)
+⭐️ From [Marin](https://github.com/Marinhhh)
