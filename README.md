@@ -1,118 +1,76 @@
-# Hi there, I'm Yunqiang Hao 👋
 
-### 🧠 Pychology and Cognition Science Researcher | 📊 Data Analyst | 🔬 Human Factors Enthusiast
+# # Hi there, I'm Yunqiang Hao (郝云强) 👋
 
-> Psychology • Cognition Science • Data Science • User Experience
- 
+### 🧠 Cognitive Neuroscience Researcher | 📊 Neuroimaging Specialist | 🔬 Multimodal Data Engineer
+
+> **Decoding the predictive brain through the intersection of Psychology, AI, and the art of Surprise.**
+
+---
+
+## 🎯 Current Mission: The PhD Quest
+
+* [ ] **Seeking a Visionary PhD Advisor**: I am looking for a mentor who shares a passion for **Predictive Coding**, **Event Segmentation**, **Magic Cognitive Science** and **Hippocampal-Cortical dynamics**. If your lab explores how the brain navigates the boundaries of reality and expectation—especially through high-ecological paradigms like magic or immersive tech—let’s start a conversation.
 
 ---
 
 ## 👨‍🎓 About Me
 
-- 🎓 **M.S. in Applied Psychology** (UX & Human Factors) @ Capital Normal University
-- 🔬 Research Assistant @ Future Mobility Lab
-- 🏥 Former UX Research Intern @ United Imaging Intelligence
-- 🧪 Certified Investigator for China Brain Initiative
-- 📍 Based in Beijing, China
+* 🎓 **M.S. in Applied Psychology** @ Capital Normal University (2023 - 2026)
+* 🧪 **Research Focus**: Extreme Prediction Violation, Cognitive Boundary Reconstruction, and Self-Other navigation.
+* 🪄 **Master's Thesis**: *Breaking the Wall of Common Sense* — A deep dive into how magic-induced prediction errors reshape cognitive boundaries using fMRI.
+* 🏥 **China Brain Initiative**: Certified Lead MRI Investigator for neurodevelopmental cohorts.
+* 📍 Based in Beijing, China.
 
 ---
 
-## 🔬 Research Interests
+## 🔬 Featured Research
 
-- **User Experience (UX)** - Quantifying and optimizing user interactions
-- **Human Factors Engineering** - Designing safer and more efficient systems
-- **Multimodal Data Analysis** - Eye-tracking, fNIRS, physiological signals
-- **Applied Psychology** - Social cognition, decision-making, human-AI interaction
+### 🪄 Magic & Predictive Coding
 
----
+* Built **Time-lagged GLM** & **Parametric Modulation** pipelines to quantify "Surprise" in the brain.
+* Applied **RSA (Searchlight)** to track neural pattern reactivation during event boundary shifts.
 
-## 🛠️ Tech Stack
+### 👩‍👦 Multimodal Social Interaction
 
-### Programming & Data Science
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-
-**Libraries & Tools**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, SPSS, Tidyverse
-
-### UX Research & Analysis
-- **Methods**: User interviews, surveys, usability testing, A/B testing, heuristic evaluation
-- **Tools**: Eye-tracking (Emotive), fNIRS (Lightnirs), Motion capture (Optitrack), Physiological recording (HRT)
-- **Frameworks**: User personas, journey mapping, task analysis, cognitive walkthrough
-
-### Development & Collaboration
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+* Developed an end-to-end synchronization pipeline via **LSL**.
+* Fused **MoCap**, **fNIRS**, **EEG**, and **Eye-tracking** to decode real-time social dynamics.
 
 ---
 
-## 📊 Featured Projects
+## 🛠️ Tech Stack (The Toolkit)
 
-### 🏥 Pediatric MRI User Experience Optimization
-**Role**: UX Researcher | **Duration**: Sep 2024 - Sep 2025
-- Conducted UX research with 200+ child participants for MRI scanning procedures
-- Designed gamified guidance strategies that improved scan success rate from **65% to 90%**
-- Performed human factors analysis on MRI workflow, identifying 10+ usability issues
-- Pushed 3 optimization initiatives to implementation, improving operator efficiency by 15%
+### 🧠 Neuroimaging
 
-**Key Achievements**: 
-- 📈 +38% scan success rate
-- ⏱️ -20% procedure time
-- 😊 +25% parent satisfaction score
+### 💻 Programming & HPC
 
-### 🚗 Intelligent Cockpit Interaction Research
-**Role**: Research Assistant | **Duration**: July 2023 - Dec 2024
-- Led data analysis for vehicle safety and intelligent interaction projects
-- Designed experimental protocols and developed technical documentation
-- Collaborated with R&D teams to translate research insights into product features
-
-### 🤖 AI Product UX Research (Challenge Cup Project)
-**Role**: UX Researcher | **Award**: 3rd Prize
-- Conducted mixed-methods research (200+ surveys, 30 interviews) for AI education product
-- Applied developmental psychology principles to identify user needs
-- Delivered actionable recommendations that improved user satisfaction by 20%
+### 🎨 Creative Tech & AI
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marinhhh&show_icons=true&theme=radical)
-
----
-
-## 🏆 Achievements
-
-- 🥉 "Challenge Cup" University Innovation Competition - 3rd Prize
-- 🎓 Graduate Merit Scholarship - 2nd Class
-- 📜 China Brain Initiative - Certified Principal Investigator
-- 📊 15+ research projects completed across mobility, healthcare, and AI domains
+<p align="center">
+<img src="[https://github-readme-stats.vercel.app/api?username=Marinhhh&show_icons=true&theme=radical&include_all_commits=true&count_private=true](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DMarinhhh%26show_icons%3Dtrue%26theme%3Dradical%26include_all_commits%3Dtrue%26count_private%3Dtrue)" alt="Hao's GitHub Stats" />
+</p>
 
 ---
 
 ## 📫 Let's Connect
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:marin1120@163.com)
-[![WeChat](https://img.shields.io/badge/-WeChat-07C160?style=flat-square&logo=wechat&logoColor=white)](https://img.shields.io/badge/H15954867138-WeChat-green)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+<p align="left">
+<a href="mailto:2233502098@cnu.edu.cn"><img src="[https://img.shields.io/badge/-Email-003366?style=flat-square&logo=gmail&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/-Email-003366%3Fstyle%3Dflat-square%26logo%3Dgmail%26logoColor%3Dwhite)" /></a>
+<a href="[https://github.com/Marinhhh](https://github.com/Marinhhh)"><img src="[https://img.shields.io/badge/-GitHub-003366?style=flat-square&logo=github&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/-GitHub-003366%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3Dwhite)" /></a>
+<a href="[https://img.shields.io/badge/H15954867138-WeChat-green](https://img.shields.io/badge/H15954867138-WeChat-green)"><img src="[https://img.shields.io/badge/-WeChat-003366?style=flat-square&logo=wechat&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/-WeChat-003366%3Fstyle%3Dflat-square%26logo%3Dwechat%26logoColor%3Dwhite)" /></a>
+</p>
 
 ---
 
-## 💡 Fun Facts
+### 💡 Fun Facts
 
-- 🎯 Passionate about **quantifying user experience** through multimodal data
-- 🧩 Love exploring the intersection of **psychology, AI, and design**
-- 🚀 Always curious about emerging tech, i.g. VR/AR, brain-computer interfaces, autonomous vehicles..
-- 📚 Avid reader of UX and cognitive science literature
-- 🎮 Believe the best research insights come from understanding real user behaviors
+* 🪄 I believe the **Hippocampus** is the brain's "Director," and magic is the "Plot Twist" that reveals how the script is written.
+* ⚙️ My favorite sound is the hum of an **HPC cluster** successfully running a parallel job.
+* 🎨 I use **GenAI** not just for art, but to create "impossible" stimuli that challenge the human visual system.
 
 ---
 
-### 🌱 Currently Learning
-- Advanced machine learning for behavioral data analysis
-- Natural language processing for user feedback analysis
-- Advanced neuroscience data analysis methods (ICA, GCA, GLM, MVPA, RSA...)
-
----
-
-⭐️ From [Marinhhh](https://github.com/Marinhhh)
+⭐️ *From [Marinhhh*](https://github.com/Marinhhh)
