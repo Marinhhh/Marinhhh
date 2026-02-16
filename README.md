@@ -1,7 +1,7 @@
 
 # Hi there, I'm Yunqiang Hao (郝云强) 👋
 
-## 🧠 Cognitive Neuroscience Researcher | 📊 Neuroimaging Specialist | 🔬 Multimodal Data Engineer
+## 🧠 Cognitive Neuroscience Researcher | 🔬 Multimodal Data Engineer
 
 > **Decoding the predictive brain through the intersection of Psychology, AI, and the art of Surprise.**
 
